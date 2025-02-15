@@ -1,0 +1,7 @@
+apiVersion: v2
+appVersion: v2.1.2
+description: A Helm chart for Kubernetes
+name: zot
+type: application
+version: 0.2.0
+home: https://github.com/project-zot/helm-charts
